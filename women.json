@@ -1,5 +1,5 @@
 {
-    "file": "http://vcg.github.io/upset/data/test/test.csv",
+    "file": "https://github.com/ceramicmedia/womendata/blob/master/womendata.csv",
     "name": "Womendata",
     "header": 0,
     "separator": ",",
